@@ -1,0 +1,6 @@
+ # Ignore data files - they're too big for GitHub
+data/
+*.csv
+*.pkl
+__pycache__/
+.DS_Store
